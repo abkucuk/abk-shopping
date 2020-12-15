@@ -1,4 +1,7 @@
 package com.MySbCommerce.abkshopping.product.services;
 
-public interface ProductSevice {
+import com.MySbCommerce.abkshopping.product.domain.Product;
+
+public class ProductSevice {
+
 }
