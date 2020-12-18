@@ -20,7 +20,7 @@ public class Product {
     private String features;
     private BigDecimal price;
     private String categoryId;
-
+    private List<ProductImage> productImageList;
     private Boolean active;
     //private String
 }

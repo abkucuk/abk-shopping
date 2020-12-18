@@ -12,8 +12,8 @@ import lombok.Getter;
 public class ProductPrice {
     private String productId;
     private String Id;
-    private String moneyType;
-    private String code;
+    private MoneyTypes moneyType;
+    private String price;
 
 
 
