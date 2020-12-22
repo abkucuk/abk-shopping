@@ -17,4 +17,4 @@ services:
     - 9200:9200
     - 9300:9300
     environment:
-      discover.type: single-node
+      discovery.type: single-node
